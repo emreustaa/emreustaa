@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://emreustaa.github.io/AdvancedProgrammingLecture/image/icon192.png" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://emreustaa.github.io/AdvancedProgrammingLecture/image/icon192.png" class="image" align="center" alt="GitHub Readme Stats" />
  <h2 class ="baslik"align="center">Emre USTA</h2>
  <p align="center">Computer Engineer - Android Developer</p>
 </p>
@@ -36,8 +36,10 @@
 
 
 ```css
-img{
-    color:#ffffff
+.image{
+     background-color: #ffffff;
+  -webkit-mask: url(logo.svg) no-repeat center;
+  mask: url(logo.svg) no-repeat center;
 }
 
 h2{

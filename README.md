@@ -19,7 +19,7 @@
 ### Contact:
 
 [<img align="left"  width="32px" src="https://cdn0.iconfinder.com/data/icons/colorful-design-basic-icons-1/550/twitter_circle_lightblue-512.png" />][twitter]
-[<img align="left"  width="32px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />][linkedin]
+[<img align="left"  width="32px" src="https://github.com/emreustaa/emreustaa/blob/main/linkedin.png" />][linkedin]
 [<img align="left"  width="32px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
 
 <br />

@@ -37,6 +37,6 @@
 
 ```css
 img{
-    background-color:#000000
+    color:#000000
 }
 ```

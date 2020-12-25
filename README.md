@@ -33,16 +33,3 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emreustaa)](https://github.com/emreustaa/github-readme-stats)
-
-
-```css
-.image{
-     background-color: #ffffff;
-  -webkit-mask: url(logo.svg) no-repeat center;
-  mask: url(logo.svg) no-repeat center;
-}
-
-h2{
-    color:#000000
-}
-```

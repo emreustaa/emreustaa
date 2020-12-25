@@ -2,9 +2,7 @@
  <img width="100px" src="https://emreustaa.github.io/AdvancedProgrammingLecture/image/icon192.png" class="image" align="center" alt="GitHub Readme Stats" />
  <h2 class ="baslik"align="center">Emre USTA</h2>
  <p align="center">Computer Engineer - Android Developer</p>
-You can use
-> [urlencoder.org](https://www.urlencoder.org/) to help you do this automatically.
-
+ <a href> <p align="center">https://emreustaa.github.io/AdvancedProgrammingLecture/ </p></a>
 </p>
 
 ### Languages and Tools:

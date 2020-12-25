@@ -35,3 +35,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emreustaa)](https://github.com/emreustaa/github-readme-stats)
 
 
+```css
+img{
+    background-color:#000000
+}
+```

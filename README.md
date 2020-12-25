@@ -2,7 +2,9 @@
  <img width="100px" src="https://emreustaa.github.io/AdvancedProgrammingLecture/image/icon192.png" class="image" align="center" alt="GitHub Readme Stats" />
  <h2 class ="baslik"align="center">Emre USTA</h2>
  <p align="center">Computer Engineer - Android Developer</p>
- <p align="center"> My Repo >[emreustaa.github.io](https://www.urlencoder.org/) </p>
+You can use
+> [urlencoder.org](https://www.urlencoder.org/) to help you do this automatically.
+
 </p>
 
 ### Languages and Tools:

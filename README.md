@@ -30,7 +30,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emreustaa&layout=compact)](https://github.com/emreustaa/github-readme-stats)
 
 
-<p style='color:red'>This is some red text.</p>
+
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+
+<p style='color:red'>This is some red text.</p>

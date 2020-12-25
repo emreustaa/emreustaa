@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://emreustaa.github.io/AdvancedProgrammingLecture/image/icon192.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Emre USTA</h2>
+ <h2 class ="baslik"align="center">Emre USTA</h2>
  <p align="center">Computer Engineer - Android Developer</p>
 </p>
 
@@ -37,6 +37,10 @@
 
 ```css
 img{
+    color:#ffffff
+}
+
+h2{
     color:#000000
 }
 ```

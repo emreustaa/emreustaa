@@ -1,10 +1,8 @@
 <p align="center">
  <img width="100px" src="https://emreustaa.github.io/AdvancedProgrammingLecture/image/icon192.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+ <h2 align="center">Emre USTA</h2>
+ <p align="center">Computer Engineer - Android Developer</p>
 </p>
-
-## I'm  Emre USTA - Computer Engineer - Android Developer
 
 ### Languages and Tools:
 

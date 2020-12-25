@@ -1,6 +1,5 @@
 ## I'm  Emre USTA - Computer Engineer - Android Developer
 
-<link rel="stylesheet" href="path/to/module/css/colors.css">
 ### Languages and Tools:
 
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
@@ -35,4 +34,3 @@
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
-.img{background-color:#000000;}

@@ -2,7 +2,7 @@
  <img width="100px" src="https://emreustaa.github.io/AdvancedProgrammingLecture/image/icon192.png" class="image" align="center" alt="GitHub Readme Stats" />
  <h2 class ="baslik"align="center">Emre USTA</h2>
  <p align="center">Computer Engineer - Android Developer</p>
- <p>https://emreustaa.github.io/AdvancedProgrammingLecture</p>
+ <p align="center"> My Repo > [emreustaa.github.io](https://www.urlencoder.org/) </p>
 </p>
 
 ### Languages and Tools:

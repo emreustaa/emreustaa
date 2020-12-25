@@ -2,7 +2,7 @@
  <img width="100px" src="https://emreustaa.github.io/AdvancedProgrammingLecture/image/icon192.png" class="image" align="center" alt="GitHub Readme Stats" />
  <h2 class ="baslik"align="center">Emre USTA</h2>
  <p align="center">Computer Engineer - Android Developer</p>
- <a href> <p align="center">https://emreustaa.github.io/AdvancedProgrammingLecture/ </p></a>
+ <a href> <p align="center">https://emreustaa.github.io/AdvancedProgrammingLecture/ </p> GitHub Page</a>
 </p>
 
 ### Languages and Tools:

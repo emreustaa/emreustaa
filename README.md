@@ -30,8 +30,4 @@
 [linkedin]: https://www.linkedin.com/emreustaa
 
 
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emreustaa&layout=compact)](https://github.com/emreustaa)
-
-
 ![dsasadas](https://github-readme-stats.vercel.app/api/?username=emreustaa&show_icons=true&title_color=fff&icon_color=990000&text_color=9f9f9f&bg_color=151515)
